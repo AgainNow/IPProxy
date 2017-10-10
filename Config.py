@@ -1,3 +1,4 @@
+# coding=utf-8
 DBName = "PROXIES.db"  # 数据库名称
 TabelName = "IPPORT"  # 表
 Column1 = "IP_PORT"  # 列1
